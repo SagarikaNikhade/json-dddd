@@ -1,0 +1,56 @@
+{"profile":[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 28,
+    "gender": "Male",
+    "location": "New York, NY",
+    "bio": "Looking for someone special!",
+    "image": "https://images1.wionews.com/images/wion/900x1600/2023/6/9/1686314317100_ChrisHemsworthh.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dazzy Smith",
+    "age": 26,
+    "gender": "Female",
+    "location": "London, UK",
+    "bio": "Looking for perfect match!",
+    "image": "https://i.pinimg.com/550x/fe/81/24/fe81248887d4d72136aa1997a493a2e5.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Alex Johnson",
+    "age": 31,
+    "gender": "Male",
+    "location": "San Francisco, CA",
+    "bio": "Passionate about art and nature!",
+    "image": "https://english.cdn.zeenews.com/sites/default/files/2017/11/17/639329-indian-men.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Emily White",
+    "age": 24,
+    "gender": "Female",
+    "location": "Sydney, Australia",
+    "bio": "Exploring the world and seeking adventure!",
+    "image": "https://img.freepik.com/free-photo/expressive-young-girl-with-blond-hair_176420-28368.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Michael Brown",
+    "age": 30,
+    "gender": "Male",
+    "location": "Los Angeles, CA",
+    "bio": "Tech enthusiast and avid traveler!",
+    "image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.1803636316.1700697600&semt=sph"
+  },
+  {
+    "id": 6,
+    "name": "Sophie Miller",
+    "age": 29,
+    "gender": "Female",
+    "location": "Paris, France",
+    "bio": "Lover of books and coffee!",
+    "image": "https://st.depositphotos.com/1345889/1478/i/450/depositphotos_14784249-stock-photo-friendly-pensive-brunette-beauty.jpg"
+  }
+]}
